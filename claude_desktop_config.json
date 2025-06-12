@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "Demo": {
+      "command": "C:\\Users\\Kelvin\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "--with",
+        "psycopg2",
+        "mcp",
+        "run",
+        "C:\\Users\\Kelvin\\repo\\openai\\mcp\\mcpdemo\\server.py"
+      ]
+    }
+  }
+}
